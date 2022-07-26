@@ -1,0 +1,10 @@
+body {
+    background-image:linear-gradient(to right top, #87ffff, #63d4d4, #4badad, #358c8c, #1e6161);
+    color: white;
+}
+
+#usernameinput {
+    height: 30px;
+    width: 200px;
+    padding: 10px;
+}
